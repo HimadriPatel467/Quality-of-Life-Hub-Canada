@@ -1,6 +1,4 @@
 # Quality of Life Hub Canada 
-![Alt Text](https://images.app.goo.gl/w16swMJ1B4LNfDfZ7)
-
 
 ## ENHANCING DECISION-MAKING THROUGH DATA VISUALIZATION: EXPLORING CANADA'S QUALITY OF LIFE FRAMEWORK
 
